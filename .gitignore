@@ -1,5 +1,6 @@
-build/
-sdkconfig
-sdkconfig.old
-.idea
-venv
+**/build/
+**/sdkconfig
+**/sdkconfig.old
+**/.idea
+**/venv
+**/.vscode/extensions.json
